@@ -1,0 +1,1 @@
+We had to choose a handful of journals that we could send our manuscript to, out of a list of 20,000+ journals. I imported the journal spreadsheet into Python, and extracted the list of journals most suitable for us, based on our topic and journal impact factor. 
